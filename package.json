@@ -21,6 +21,7 @@
   "dependencies": {
     "@flagship.io/js-sdk-logs": "^0.1.4",
     "@flagship.io/react-sdk": "https://github.com/abtasty/flagship-react-sdk.git#qa/FS2-961-V2",
+    "@flagship.io/js-sdk":"https://github.com/abtasty/flagship-js-sdk.git#qa/FS2-961-V2",
     "@react-native-community/async-storage": "^1.11.0",
     "react": "^16.13.1",
     "react-native": "^0.63.2",
