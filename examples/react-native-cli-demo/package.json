@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^10.0.6",
-    "@flagship.io/react-native-sdk": "fs-react-native-sdk-c1967603-287e-4e34-a030-0c1a2e29a998.tgz",
+    "@flagship.io/react-native-sdk": "https://github.com/ABTastyAdel/flagship-react-native-sdk.git#feature/FS-975-v1.5",
     "@react-native-community/async-storage": "^1.8.1",
     "@react-native-community/cli-platform-android": "^4.10.1",
     "@react-native-community/masked-view": "^0.1.6",
